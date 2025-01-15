@@ -1,7 +1,7 @@
 // Minesweeper.java - @starlitnova - 13/8/24 - added comments and cursor + help menu
 
 // Created for AP Computer Science
-// I HATE using external libraries! So I made it without any
+// I HATE using external libraries! So I made it without any.
 // Java libraries are the BEST c:
 
 // The game is entirely configurable when ran, no need to modify code,
